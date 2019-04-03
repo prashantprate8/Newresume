@@ -1,0 +1,180 @@
+.Name{            position: relative;
+    margin-left: 42%;
+    margin-bottom: 198px;
+    margin-top: -394px;
+    color: white;
+       }
+
+       .propic{        border-radius: 105px;
+    margin-left: 8%;
+    margin-top: 44px;
+  
+    border-color: snow;
+    width: 156px;
+
+       }
+
+       .main{    
+      
+       }
+
+       .abtme{    position: relative;
+    /* background-color: blue; */
+   
+    font-family: monospace;
+    font-size: 265px;
+}
+    .abt1{    position: relative;
+    margin-left: -19%;
+    margin-top: 30px;
+    width: 67%;
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+    }
+     .vis
+     {
+           position: relative;
+    font-family: monospace;
+    margin-top: 50px;
+    margin-left: -2%;
+     }
+
+     .vis1{
+         position: relative;
+    margin-left: -19%;
+    margin-top: 30px;
+    width: 67%;
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+
+     }
+
+     .ski{
+
+           position: relative;
+    font-family: monospace;
+    margin-top: 50px;
+    margin-left: 2%;
+     }
+
+     .skii{
+          position: relative;
+    margin-left: -19%;
+    margin-top: 30px;
+    width: 67%;
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+
+
+     }
+
+     .ski1{    position: relative;
+    margin-left: -56%;
+    margin-top: 76px;
+    width: 67%;
+    text-align: -webkit-right;
+    font-size: 22px;
+    font-family: cursive;
+     }
+
+     .pro1{    position: relative;
+    margin-top: -276px;
+    }
+
+    .pro2{
+            position: relative;
+    margin-top: 33px;
+    }
+
+    .pro3{
+            position: relative;
+    margin-top: 33px;
+    }
+
+    .pro4{
+            position: relative;
+    margin-top: 33px;
+    }
+
+    .pro5{
+            position: relative;
+    margin-top: 33px;
+    }
+
+    .pro6{
+            position: relative;
+    margin-top: 33px;
+    }
+
+.allpro{    position: relative;
+    margin-left: 12%;
+    width: 200px;
+}
+
+.ach{
+    position: relative;
+    margin-left: -19%;
+    margin-top: 30px;
+    width: 67%;
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+
+}
+
+.achi{
+   position: relative;
+    margin-left: -20%;
+    margin-top: 76px;
+    width: 67%;
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+.ach1{       position: relative;
+    margin-left: -20%;
+    margin-top: 76px;
+    width: 67%;
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+.contact{
+     position: relative;
+    margin-left: -20%;
+    margin-top: 76px;
+    width: 67%;
+    text-align: -webkit-center;
+    font-size: 22px;
+    font-family: cursive;
+}
+.cls
+{
+   background-image:green_pasture.jpg;
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ .back{
+     position: relative;
+     max-width: all;
+     max-height: all;
+     color: black;
+ }
+
+ .imp{    position: relative;
+    margin-top: 187px;
+    width: 1300px;
+    height: 1914px;
+    z-index: 1;
+    color: antiquewhite;
+    background-color: black;
+    padding-left: 559px;
+    margin-left: 3px;
+    margin-top: -56px;
+ }
